@@ -22,8 +22,8 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
 
 1. Clona este repositorio o descarga los archivos:
    ```bash
-   git clone https://github.com/tu-usuario/gestion-notas.git
-   cd gestion-notas
+   git clone https://github.com/Argon69/GUIPromedioTkinder.git
+   cd GUIPromedioTkinder
    ```
 
 2. Asegúrate de tener instaladas las dependencias necesarias. En la mayoría de los casos, **Tkinter** y **SQLite** vienen preinstalados con Python. Si no es así, instálalos usando tu gestor de paquetes:
@@ -33,7 +33,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
 
 3. Ejecuta la aplicación:
    ```bash
-   python3 gestion_notas.py
+   python3 promedio.py
    ```
 
 ## Estructura del Proyecto
