@@ -1,6 +1,6 @@
 ### README
 
-# Sistema de Gestión de Notas
+# Sistema de Gestión de Notas en Python con Tkinder y SQLite3
 
 Este proyecto es una aplicación de escritorio desarrollada en Python utilizando **Tkinter** y **SQLite3**. Su principal propósito es permitir la gestión y cálculo de promedios de notas, con funcionalidades como agregar, editar y eliminar registros. La interfaz gráfica es moderna, interactiva y fácilmente extensible.
 
